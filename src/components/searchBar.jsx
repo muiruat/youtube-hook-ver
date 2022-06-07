@@ -4,7 +4,7 @@ const SearchBar = memo((props) => {
   const formRef = createRef();
   const inputRef = createRef();
 
-  const onSubmit = (event) => {
+  const handleSubmit = (event) => {
     event.preventDefault();
     const searchContent = inputRef.current.value;
     props.onSearch(searchContent);
@@ -12,7 +12,7 @@ const SearchBar = memo((props) => {
   };
 
   return (
-    <form ref={formRef} onSubmit={onSubmit}>
+    <form ref={formRef} onSubmit={handleSubmit}>
       <input type="text" ref={inputRef} />
       <button>검색</button>
     </form>

@@ -1,0 +1,75 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "iKilAcUO0bFH6yvIFkUfxxgvYwg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "nROFTlFxbUxf3j-j17fMQeiyiIs",
+      "id": "L3volQGSzXk",
+      "snippet": {
+        "publishedAt": "2022-06-06T03:15:41Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[AFC U-23 아시안컵] 대한민국 VS 베트남 H/L l 2022 AFC U-23 ASIAN CUP 조별리그",
+        "description": "[AFC U-23 아시안컵] 조별리그 대한민국 VS 베트남",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L3volQGSzXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L3volQGSzXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3volQGSzXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "2022 U-23 아시안컵",
+          "AFC",
+          "ASIAN CUP",
+          "tvn",
+          "tvn sports",
+          "xtvn",
+          "대한민국",
+          "말레이시아",
+          "베트남",
+          "사우디아라비아",
+          "스포츠",
+          "스포츠 생중계",
+          "엄원상",
+          "엄지성",
+          "오세훈",
+          "우즈베키스탄",
+          "이강인",
+          "일본",
+          "조영욱",
+          "축구",
+          "축구하이라이트",
+          "태국",
+          "황선홍"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[AFC U-23 아시안컵] 대한민국 VS 베트남 H/L l 2022 AFC U-23 ASIAN CUP 조별리그",
+          "description": "[AFC U-23 아시안컵] 조별리그 대한민국 VS 베트남"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/L3volQGSzXk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

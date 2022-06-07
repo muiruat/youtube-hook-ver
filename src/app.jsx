@@ -1,12 +1,14 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import SearchBar from './components/searchBar';
+import VideoDetail from './components/videoDetail';
 import VideoList from './components/videoList';
 
 const App = () => {
   const [videoInfos, setVideoInfos] = useState([]);
+  const [videoId, setVideoId] = useState();
 
   useEffect(() => {
-    const requestOptions = {
+    /*const requestOptions = {
       method: 'GET',
       redirect: 'follow',
     };
@@ -20,11 +22,19 @@ const App = () => {
         const videoInfos = result.items;
         setVideoInfos(videoInfos);
       })
+      .catch((error) => console.log('error', error));*/
+
+    fetch('mostPopularVideoData.json')
+      .then((response) => response.json())
+      .then((result) => {
+        const videoInfos = result.items;
+        setVideoInfos(videoInfos);
+      })
       .catch((error) => console.log('error', error));
   }, []);
 
-  const onSearch = useCallback((searchContent) => {
-    const requestOptions = {
+  const handleSearch = useCallback((searchContent) => {
+    /*const requestOptions = {
       method: 'GET',
       redirect: 'follow',
     };
@@ -38,13 +48,28 @@ const App = () => {
         const videoInfos = result.items;
         setVideoInfos(videoInfos);
       })
+      .catch((error) => console.log('error', error));*/
+
+    fetch('searchVideoData.json')
+      .then((response) => response.json())
+      .then((result) => {
+        const videoInfos = result.items;
+        setVideoInfos(videoInfos);
+      })
       .catch((error) => console.log('error', error));
+
+    setVideoId(null);
+  }, []);
+
+  const handleDetail = useCallback((id) => {
+    setVideoId(id);
   }, []);
 
   return (
     <>
-      <SearchBar onSearch={onSearch} />
-      <VideoList videoInfos={videoInfos} />
+      <SearchBar onSearch={handleSearch} />
+      {videoId && <VideoDetail videoId={videoId} />}
+      <VideoList videoInfos={videoInfos} onDetail={handleDetail} />
     </>
   );
 };

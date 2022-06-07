@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "b5ofUYpI9ii-h9_ZvUzaOc1ZmIM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 245417,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "epGbwDs1tHssqPDoe0r8ss619IQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LclObYwGj90"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-28T13:17:13Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "React 기초 0강 : 리액트왜 쓰는지 알려줌 (+ 수강시 필요 사전지식)",
+        "description": "1. 그냥 앱만들기, 발행하기 쉽고 UX적으로 뛰어나서 씁니다. 2. 2020년 이후로 리액트 문법이 class 없이 쉬워져서 만만해짐 3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LclObYwGj90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LclObYwGj90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LclObYwGj90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-28T13:17:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1PoQolxO3g6_wAQbHNOWpTXami0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "00yJy7W0DQE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T01:54:11Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "2022 new 리액트 1강 : 리액트 뽕주입과 설치법",
+        "description": "리액트 v18, 리액트라우터 v6, reduxjs/toolkit 이런거 씁니다 Q. 다른거 만들어보나요? A. 아뇨 재탕임 설치관련 에러 모음 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/00yJy7W0DQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/00yJy7W0DQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/00yJy7W0DQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-25T01:54:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yl6I6Yh8bh2JjZuDseVkmr06ZcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MeZ3FCTub3I"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-08T03:57:46Z",
+        "channelId": "UCfBvs0ZJdTA43NQrnI9imGA",
+        "title": "이거 모르면 프론트엔드 개발자 못됨 | 리액트 진짜 쉽게 설명해줌 | 리액트 초보자 입문 강의 1탄",
+        "description": "프론트 엔드 개발자가 되기위해 반드시 알아야하는 리액트에 대해 강의를 만들어봤어요! 최대한 쉽게 설명해보려고했는데 괜찮은가용 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MeZ3FCTub3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MeZ3FCTub3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MeZ3FCTub3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩알려주는누나",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-08T03:57:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kCUrgfkTBNoKw2W1OJvY36L4mFQ",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-21T14:55:33Z",
+        "channelId": "UCvc8kv-i5fvFTJBFAk6n1SA",
+        "title": "React",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMb0w3KMw00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMb0w3KMw00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMb0w3KMw00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "생활코딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-21T14:55:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xjoxtzmaPT7TIM-edic1uvGYgtY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AoMv0SIjZL8"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-17T03:00:51Z",
+        "channelId": "UCvc8kv-i5fvFTJBFAk6n1SA",
+        "title": "React 2022년 개정판 - 1. 수업소개",
+        "description": "리액트 입문자를 위한 수업입니다. 만들게 될 것 https://egoing.github.io/react-2022-tutorial-src/ 소스코드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoMv0SIjZL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoMv0SIjZL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoMv0SIjZL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "생활코딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-17T03:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P-_v5zBtMoUnEyQgjilbmxYMegs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nahwuaXmgt8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-29T03:16:29Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "React 기초 1강 : 리액트 설치와 셋팅법 (2021+ 스타일)",
+        "description": "풀강의, 예제코드는 https://codingapple.com 에서 - 구독자용 10% 할인 코드 YT123 요즘은 설치 셋팅도 쉽습니다. 1. nodejs 최신버전 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nahwuaXmgt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nahwuaXmgt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nahwuaXmgt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-29T03:16:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4RLu5vAUpUSIEPOCVySWF1Xg1xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qcphnSqneE0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-11T06:47:57Z",
+        "channelId": "UCfBvs0ZJdTA43NQrnI9imGA",
+        "title": "프론트엔드 화룡점정ㄹㅇ개 핵심강의 | 리액트 이거보도고 이해못하면 집가라...",
+        "description": "리액트에 핵심내용은 여기에 다 담겨있다고 생각하시면 됩니다 저번강의에 이은 2탄이 왔습니다 1탄아직 안보신분들은 읭? 하실수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcphnSqneE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcphnSqneE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcphnSqneE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩알려주는누나",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-11T06:47:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qvrc1mGJx5A4Xp1kV0Xd-HrMuD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7mkQi0TlJQo"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-09T11:30:01Z",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "완전 새로운 리액트가 온다? 핵심정리 10분컷.",
+        "description": "리액트 18은 무엇이 달라지는지 10분동안 분석해드림. 찐 혁신의 시작. 리액트 18이 온다! #리액트 #리액트18 #react18 #코딩 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7mkQi0TlJQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7mkQi0TlJQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7mkQi0TlJQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "노마드 코더 Nomad Coders",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-09T11:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "anlg9LL7yimqzdJAtg6h9IUJLY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kyodvzc5GHU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-27T10:55:07Z",
+        "channelId": "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
+        "title": "React Hooks에 취한다 - useEffect 깔끔하게 마스터하기 | 리액트 훅스 시리즈",
+        "description": "그 복잡한 useEffect hook을 최대한 간편하게 설명했습니다! 리액트 개발자라면 반드시 알아야하는 useEffect에 대해 자세히 차근차근 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kyodvzc5GHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kyodvzc5GHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kyodvzc5GHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "별코딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-27T10:55:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6S1auPMYzGa0xZM5VplcqeyJ90E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FqnAFX9lQPQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-29T06:17:59Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "React 기초 2강 : 리액트에선 HTML대신 JSX 써야함 (JSX 사용법)",
+        "description": "리액트 개발환경에선 그냥 똑같이 HTML써서 웹페이지 만들 수 있는데 HTML 문법이 살짝 다릅니다. 1. class=\"\"가 아니라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqnAFX9lQPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqnAFX9lQPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqnAFX9lQPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-29T06:17:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z1MTS8lxpSwm0eXTtWyfO71RGZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QZcYz2NrDIs"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-13T07:20:43Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "React 입문자들이 알아야할 Redux 쉽게설명 (8분컷)",
+        "description": "React 하다보면 Redux를 필히 만나게 되는데 한 해 리덕스 포기자가 10만명이나 되기 때문에 준비했습니다 비슷한 리액트 강의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZcYz2NrDIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZcYz2NrDIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZcYz2NrDIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-13T07:20:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sr9Brn_8-kqzuYdh65GDPjQBYJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GEX0c3vhHZU"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-03T17:36:45Z",
+        "channelId": "UCVKwzvReQfDn68Mt-sv1EVw",
+        "title": "[오디오북][낭독/듣는책] 리액트 1 - 네빌 고다드 . 의식만이 유일한 실재(실체)이고, 자기 삶은 온전히 자기책임이다. 반응을 바꾸면 삶이 바뀐다.",
+        "description": "영성 #관념_생각_삶 #반응_법칙.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEX0c3vhHZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEX0c3vhHZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEX0c3vhHZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하늘 나는 고래",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-03T17:36:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I6KTuPfiU2Yu8gYZLE4ggnEM6_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p5ZP4xzhRxk"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-31T09:04:23Z",
+        "channelId": "UCxft4RZ8lrK_BdPNz8NOP7Q",
+        "title": "React JS #7 state, useState - 초보자를 위한 리액트 강좌",
+        "description": "안녕하세요. 코딩앙마 입니다 :) React JS 강좌 시작합니다. Javascript, HTML, CSS 에 어느정도 기초 지식이 있으신 분들 대상으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p5ZP4xzhRxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p5ZP4xzhRxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p5ZP4xzhRxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩앙마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-31T09:04:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f1XSA3g22-O16OothW8D7AJDG5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DuJC2ATdGtw"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-31T09:13:19Z",
+        "channelId": "UCxft4RZ8lrK_BdPNz8NOP7Q",
+        "title": "React JS #8 props - 초보자를 위한 리액트 강좌",
+        "description": "안녕하세요. 코딩앙마 입니다 :) React JS 강좌 시작합니다. Javascript, HTML, CSS 에 어느정도 기초 지식이 있으신 분들 대상으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DuJC2ATdGtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DuJC2ATdGtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DuJC2ATdGtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩앙마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-31T09:13:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i0XbsWWNZoYzMxOl5bf5kqvymRo",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-17T07:33:14Z",
+        "channelId": "UCp-vBtwvBmDiGqjvLjChaJw",
+        "title": "리액트 무료 강좌(웹게임)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V3QsSrldHqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V3QsSrldHqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3QsSrldHqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ZeroCho TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-17T07:33:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "scSv2i1nAGeyviP52kNhSKDpG7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2xCR-0SYe5Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-07T14:40:10Z",
+        "channelId": "UCVKwzvReQfDn68Mt-sv1EVw",
+        "title": "[오디오북][낭독/듣는책] 리액트 3 - 네빌 고다드.  올바름, 의로움의 진정한 의미.",
+        "description": "영성 #상상_의식 _현실창조 #네빌고다드.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xCR-0SYe5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xCR-0SYe5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xCR-0SYe5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하늘 나는 고래",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-07T14:40:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OYyASDKkbCy-QqWiWeGG6DVK-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TjUju3aUIDM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-19T11:28:15Z",
+        "channelId": "UCfBvs0ZJdTA43NQrnI9imGA",
+        "title": "리액트로 할일앱을 만들어보자!(웃김주의) | 실제 리액트 개념이 어떻게 사용되는지 살펴보자| 리액트 초보자용",
+        "description": "안녕하세요! 오늘은 그동안배운 기본 컨셉: 컴포넌트,props,state를 가지고 냅다 프로젝트 하나를 만들어보면서 실제 어떻게 사용 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjUju3aUIDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjUju3aUIDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjUju3aUIDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩알려주는누나",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-19T11:28:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3fLZ0aRh3V7LbwHk3sKVxx_a_R8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LwvXVEHS638"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-15T11:35:53Z",
+        "channelId": "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
+        "title": "React Hooks에 취한다 - useContext + Context API | 리액트 훅스 시리즈",
+        "description": "리액트 훅스 중에 가장 멋진 useContext! 아주 아주 쉽게 설명해드릴게요. index.css (강의에서 사용된 CSS) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LwvXVEHS638/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LwvXVEHS638/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwvXVEHS638/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "별코딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-15T11:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jjy5W1xCjFmHEI_6KsQsb8Fy8kU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nc-OgqXQhCw"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-13T05:14:25Z",
+        "channelId": "UCVKwzvReQfDn68Mt-sv1EVw",
+        "title": "[오디오북][낭독/듣는책] 네빌 고다드 리액트 2 - 믿음이란 이미 이루어진 상태에서 느껴질 감정을 지금 느끼고, 그 상태에서 나타날 생각들을 지금 하는 것이다.",
+        "description": "영성 #믿음_자기완성_깨달음_상상_느낌_끌어당김.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nc-OgqXQhCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nc-OgqXQhCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nc-OgqXQhCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하늘 나는 고래",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-13T05:14:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zXHG8LU7BlzodYZ35oyGtvaqONw",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-31T02:40:00Z",
+        "channelId": "UCmMgRlN-3GKQ_CH7cOtLdvg",
+        "title": "React.js 강좌 시리즈",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEoNiUcVwjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEoNiUcVwjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEoNiUcVwjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Minjun Kim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-31T02:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UJ6NB-hIttAIgLuRqUbF3A0f-hk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qb8Oiy8i9IY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-02T02:20:54Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "React 기초 3강 : 리액트에선 변수말고 state 만들어 쓰랬죠 (useState)",
+        "description": "리액트 설치와 셋팅 되어있으시죠? 안되어있으면 이전강의 참고 ㄱㄱ : https://youtu.be/nahwuaXmgt8 그냥 자바스크립트 데이터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qb8Oiy8i9IY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qb8Oiy8i9IY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qb8Oiy8i9IY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-02T02:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFYUAZr9-ju0YiM2m8VTlouzSco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-tVaahsXpwk"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-20T11:54:53Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "Vue 0강 : 카카오가 리액트냅두고 Vue 쓰는 이유",
+        "description": "실은 반반 섞어씁니다 근데 Vue 한번 빠지면 못헤어나옴 코드가 HTML친화적이고 쉬워서 그렇습니다 Vue로 인스타그램 만들기 전체 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tVaahsXpwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tVaahsXpwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tVaahsXpwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-20T11:54:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "odejD_xW1zliSbNHAM9uxdwOd1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nT4OWJJjtJg"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-07T22:30:03Z",
+        "channelId": "UC2jBZ3K1iqnGrw4_eBa7iSA",
+        "title": "네? 리액트(React)가 자바스크립트 아닌가요...?",
+        "description": "React #리액트 #비전공자 #비개발자 #자바스크립트 IT업계에서 일 하는 분들은 리액트(React, 내지는 React.js)라는 자바 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nT4OWJJjtJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nT4OWJJjtJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nT4OWJJjtJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "데이터 유치원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-07T22:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JM_Xjg8-D3XPUX9elehfxv87hJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tmlugLghR9s"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-09T08:45:01Z",
+        "channelId": "UC2jBZ3K1iqnGrw4_eBa7iSA",
+        "title": "리액트 vs Vue 취업을 위해서라면 뭘 배워야 할까? 웹 프론트엔드 개발자로 취업하고 싶은 학생은 꼭 보세요",
+        "description": "리액트 #Vue #자바스크립트 최근에 프로그래밍을 공부해서 취업하고 싶은 학생이나 예비 개발자 중, 리액트(React, 내지는 React.js) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tmlugLghR9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tmlugLghR9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tmlugLghR9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "데이터 유치원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-09T08:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rEhMFT3DeX8BzyGbUvhnRyicVTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fpc7KnqFGrs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T15:07:27Z",
+        "channelId": "UCp-vBtwvBmDiGqjvLjChaJw",
+        "title": "[리액트 무료 강좌 1-5]클래스 컴포넌트의 형태와 리액트 데브툴즈",
+        "description": "조현영(zerocho)의 자바스크립트와 노드 프로그래밍 강좌 멤버십 가입: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpc7KnqFGrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpc7KnqFGrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpc7KnqFGrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ZeroCho TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T15:07:27Z"
+      }
+    }
+  ]
+}
